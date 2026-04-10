@@ -1,3 +1,5 @@
+
+<img width="1200" height="630" alt="screenshot" src="https://github.com/user-attachments/assets/ac02ac37-a44a-41d4-b14d-c88ed0f2dc32" />
 # Grok Imagine 2.0
 
 > AI-powered image generation platform - Create stunning visuals from text prompts
